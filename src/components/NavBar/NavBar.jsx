@@ -36,7 +36,7 @@ const NavBar = () => {
         ))}
       </ul>
       <div className="px-20 hidden md:block">
-        <button className="px-[30px] rounded-[12px] text-white py-[14px] bg-blue-600">
+        <button className="px-[30px] rounded-[12px] text-white font-bold py-[14px] bg-violet-700">
             View All
         </button>
       </div>
