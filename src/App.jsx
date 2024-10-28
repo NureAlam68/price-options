@@ -1,4 +1,4 @@
-import DaisyNav from "./components/DaisyNav/DaisyNav";
+// import DaisyNav from "./components/DaisyNav/DaisyNav";
 
 import NavBar from "./components/NavBar/NavBar";
 
@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
       <NavBar></NavBar>
-      <DaisyNav></DaisyNav>
+      {/* <DaisyNav></DaisyNav> */}
     </div>
   );
 };
