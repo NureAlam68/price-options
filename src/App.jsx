@@ -3,6 +3,7 @@
 import BarChart from "./components/BarChart/BarChart";
 import LineChart from "./components/LineChart/LineChart";
 import NavBar from "./components/NavBar/NavBar";
+import PieChart from "./components/PieChart/PieChart";
 import PriceOptions from "./components/PriceOptions/PriceOptions";
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
       <PriceOptions></PriceOptions>
       <LineChart></LineChart>
       <BarChart></BarChart>
+      <PieChart></PieChart>
     </div>
   );
 };

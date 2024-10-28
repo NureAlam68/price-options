@@ -21,7 +21,7 @@ const BarChart = () => {
             <h1 className='text-center text-5xl font-bold md:mt-[88px]'>
             Track New Joins with Gender Breakdown Across the Year!
             </h1>
-            <div className='md:px-[140px] flex items-center md:mt-[88px] gap-8'>
+            <div className='md:px-[140px] md:flex items-center md:mt-[88px] gap-8'>
             <div className='border h-[500px] p-8 rounded-[16px] bg-violet-700 text-white'>
             <h1 className=' text-[40px] mt-10'>Monthly Gym Membership Trends: </h1>
             <p className='mt-6 text-[20px] font-semibold'>
